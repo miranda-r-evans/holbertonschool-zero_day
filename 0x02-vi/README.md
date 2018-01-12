@@ -1,3 +1,1 @@
-1. Vi is a text editor that is used in the terminal.
-
-2. Bill Joy is a computer scientist who wrote Vi and created csh.
+This project was for practicing using vi. In it I wrote files showing the commands for inserting text before the cursor, cutting the current line, pasting, undo, quiting, moving the cursor to the start of the current line, and moving the cursor to the end of the line. There are also files for two things that I got wrong.

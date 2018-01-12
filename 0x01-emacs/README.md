@@ -1,3 +1,1 @@
-1. Emacs is a text editor, often used on the command line.
-
-2. Richard Stallman started the GNU Project and wrote emacs.
+This project was for practicing using emacs. In it I wrote files with the commands to open a file, save a file, cut a line, paste, search, undo, quit, play tetris, and "talk to your doctor."
